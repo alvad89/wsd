@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4121826d-aa46-480d-9c01-1bd0e92c133f" name="Default" comment="" />
+    <ignored path="WSDispetcher.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Connector.java" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357157141104" ignored="false" />
+    <file path="/dummy.sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357503650763" ignored="false" />
+    <file path="/a.sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357503650763" ignored="false" />
+    <file path="/ConnectToBD.java" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1360560703964" ignored="false" />
+    <file path="db-console:/91f9a751/8e3ebc28-d0c4-41a2-8c5b-a93b5c5dc733/" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357156331367" ignored="false" />
+    <file path="/Dummy.regexp" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357243372259" ignored="false" />
+    <file path="/MySQL Fragment (ConnectToBD.java:1739).sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357243524363" ignored="false" />
+    <file path="dbtable:/91f9a751/8e3ebc28-d0c4-41a2-8c5b-a93b5c5dc733/telemetria..timeparametrs" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357244015887" ignored="false" />
+    <file path="/MySQL Fragment (ConnectToBD.java:2294).sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357244559215" ignored="false" />
+    <file path="/MySQL Fragment (ConnectToBD.java:1084).sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357326693157" ignored="false" />
+    <file path="/MySQL Fragment (ConnectToBD.java:857).sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357327576066" ignored="false" />
+    <file path="/MySQL Fragment (ConnectToBD.java:3142).sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357328918671" ignored="false" />
+    <file path="/MySQL Fragment (ConnectToBD.java:3160).sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357329451169" ignored="false" />
+    <file path="/a.regexp" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357329156789" ignored="false" />
+    <file path="/Data Source" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357329212092" ignored="false" />
+    <file path="/MySQL Fragment (ConnectToBD.java:4205).sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357502309061" ignored="false" />
+    <file path="/MySQL Fragment (ConnectToBD.java:7068).sql" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357650838958" ignored="false" />
+    <file path="/HelloWorld.java" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1357661406235" ignored="false" />
+    <file path="/WebServicesBaza.java" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1360560923642" ignored="false" />
+    <file path="/fragment.java" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358327379081" ignored="false" />
+    <file path="/a.txt" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358328538416" ignored="false" />
+    <file path="/Dummy.txt" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1360589773804" ignored="false" />
+    <file path="dbtable:/2ea89e/5738ae7c-95ed-4ca4-9695-3ab2c21780b1/information_schema..CHARACTER_SETS" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358153892459" ignored="false" />
+    <file path="dbtable:/2ea89e/5738ae7c-95ed-4ca4-9695-3ab2c21780b1/information_schema..COLUMNS" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358153932958" ignored="false" />
+    <file path="/web.xml" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358326239807" ignored="false" />
+    <file path="/index.jsp" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358332410681" ignored="false" />
+    <file path="/WebServletBaza.java" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358333716215" ignored="false" />
+    <file path="/index.html" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358487017903" ignored="false" />
+    <file path="/DummyFile.xpath" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358401084428" ignored="false" />
+    <file path="/main.css" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358500680311" ignored="false" />
+    <file path="/first.html" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358423428595" ignored="false" />
+    <file path="/second.html" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358484543825" ignored="false" />
+    <file path="/thrid.html" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358502971751" ignored="false" />
+    <file path="/4.html" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358488367051" ignored="false" />
+    <file path="/stylesheet.css" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1358503217980" ignored="false" />
+    <file path="dbtable:/2ea89e/5738ae7c-95ed-4ca4-9695-3ab2c21780b1/Telemetria..timeParametrs" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1360558184235" ignored="false" />
+    <file path="db-console:/2ea89e/5738ae7c-95ed-4ca4-9695-3ab2c21780b1/" changelist="4121826d-aa46-480d-9c01-1bd0e92c133f" time="1360560818047" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="true" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WSDispetcher" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="WebServicesBaza.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web/services/WebServicesBaza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="40" selection-start="1683" selection-end="1683" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectToBD.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/baza/client/ConnectToBD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="241" column="49" selection-start="9085" selection-end="9085" vertical-scroll-proportion="2.275862">
+              <folding>
+                <marker date="1360584732000" expanded="true" signature="886:942" placeholder="INSERT INTO ..." />
+                <marker date="1360584732000" expanded="true" signature="944:1000" placeholder="select locat..locate..." />
+                <marker date="1360584732000" expanded="true" signature="1323:1393" placeholder="insert into ..." />
+                <marker date="1360584732000" expanded="true" signature="2113:2179" placeholder="Select timep..timeparametrs..." />
+                <marker date="1360584732000" expanded="true" signature="2853:2919" placeholder="SELECT timep..timeparametrs..." />
+                <marker date="1360584732000" expanded="true" signature="3602:3685" placeholder="select timep..timeparametrs..." />
+                <marker date="1360584732000" expanded="true" signature="4513:4762" placeholder="SELECT curre..currentvalues..." />
+                <marker date="1360584732000" expanded="true" signature="4686:4761" placeholder="SELECT MAX(i..currentvalues..." />
+                <marker date="1360584732000" expanded="true" signature="6011:6206" placeholder="select hourl..hourlyarchive..." />
+                <marker date="1360584732000" expanded="true" signature="7430:7596" placeholder="select DayDa..dayarchive..." />
+                <marker date="1360584732000" expanded="true" signature="8543:8572" placeholder="select locat..location..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alexey" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="e865de5" />
+      </map>
+    </option>
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="dbtable:/2ea89e/5738ae7c-95ed-4ca4-9695-3ab2c21780b1/spravka..example" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/web/WebServletBaza.java" />
+        <option value="$PROJECT_DIR$/web/first.html" />
+        <option value="$PROJECT_DIR$/web/second.html" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/thrid.html" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/css/main.css" />
+        <option value="$PROJECT_DIR$/web/4.html" />
+        <option value="$PROJECT_DIR$/web/thrid.html" />
+        <option value="$PROJECT_DIR$/web/css/stylesheet.css" />
+        <option value="dbtable:/2ea89e/5738ae7c-95ed-4ca4-9695-3ab2c21780b1/Telemetria..locate" />
+        <option value="/MySQL Fragment (ConnectToBD.java:8542).sql" />
+        <option value="$PROJECT_DIR$/src/web/services/WebServicesBaza.java" />
+        <option value="$PROJECT_DIR$/src/baza/client/ConnectToBD.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jaxws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSDispetcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Рабочий стол/папка/webhtmlcss" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="project.structure.side.proportion" value="0.15034965" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Database.TableEditor.Splitter" value="0.89999986" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JBoss Server.JBoss 7.1.1.Final">
+    <configuration default="false" name="WebServicesBaza" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="web.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="web.services.WebServicesBaza" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WSDispetcher" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Local">
+      <deployment />
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JBoss 7.1.1.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 7.1.1.Final" show_console_on_std_out="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WSD/WebServicesBaza" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="WSD">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="41014" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="false" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="WSD" />
+        </option>
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JBoss Server.JBoss 7.1.1.Final" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WebServicesBaza" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.WebServicesBaza" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4121826d-aa46-480d-9c01-1bd0e92c133f" name="Default" comment="" />
+      <created>1356891595098</created>
+      <updated>1356891595098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272727" sideWeight="0.49673736" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3071313" sideWeight="0.8594507" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14054927" sideWeight="0.50734097" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24230146" sideWeight="0.2180937" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.49673736" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24225122" sideWeight="0.2172471" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289256" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24230146" sideWeight="0.41033927" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32669982" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23905997" sideWeight="0.8594507" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32524273" sideWeight="0.49347472" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="soapUI Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35323384" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32504147" sideWeight="0.48694944" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="soapUI Navigator" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="work with web content" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="change data baze" />
+    <MESSAGE value="change settins JBoss to deploy war/&#10; if war not deployed rename folder in name.war" />
+    <MESSAGE value="work with web content" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/web/services/WebServicesBaza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="40" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baza/client/ConnectToBD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="219" column="53" selection-start="8202" selection-end="8202" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1360584732000" expanded="true" signature="886:942" placeholder="INSERT INTO ..." />
+            <marker date="1360584732000" expanded="true" signature="944:1000" placeholder="select locat..locate..." />
+            <marker date="1360584732000" expanded="true" signature="1323:1393" placeholder="insert into ..." />
+            <marker date="1360584732000" expanded="true" signature="2113:2179" placeholder="Select timep..timeparametrs..." />
+            <marker date="1360584732000" expanded="true" signature="2853:2919" placeholder="SELECT timep..timeparametrs..." />
+            <marker date="1360584732000" expanded="true" signature="3602:3685" placeholder="select timep..timeparametrs..." />
+            <marker date="1360584732000" expanded="true" signature="4513:4762" placeholder="SELECT curre..currentvalues..." />
+            <marker date="1360584732000" expanded="true" signature="4686:4761" placeholder="SELECT MAX(i..currentvalues..." />
+            <marker date="1360584732000" expanded="true" signature="6011:6206" placeholder="select hourl..hourlyarchive..." />
+            <marker date="1360584732000" expanded="true" signature="7430:7596" placeholder="select DayDa..dayarchive..." />
+            <marker date="1360584732000" expanded="true" signature="8543:8572" placeholder="select locat..location..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="24" selection-start="1866" selection-end="1866" vertical-scroll-proportion="0.0" />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5738ae7c-95ed-4ca4-9695-3ab2c21780b1.schema:Telemetria">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5738ae7c-95ed-4ca4-9695-3ab2c21780b1.schema:Telemetria</OriginalElement>
+          <nodes>
+            <node x="739.75" y="408.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.timeParametrs</node>
+            <node x="553.75" y="338.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.DayArchive</node>
+            <node x="1130.75" y="468.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.Alarm</node>
+            <node x="923.75" y="388.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.CurrentValues</node>
+            <node x="1207.5" y="169.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.AlarmTag</node>
+            <node x="350.75" y="328.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.HourlyArchive</node>
+            <node x="72.0" y="169.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.nameCorrektor</node>
+            <node x="658.75" y="139.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.kp</node>
+            <node x="87.75" y="418.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.Correktor</node>
+            <node x="653.25" y="0.0">5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.locate</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.CurrentValues" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.kp">
+              <point x="0.0" y="-144.5" />
+              <point x="1017.25" y="298.0" />
+              <point x="764.5" y="298.0" />
+              <point x="35.25" y="64.5" />
+            </edge>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.HourlyArchive" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.kp">
+              <point x="0.0" y="-204.5" />
+              <point x="442.25" y="298.0" />
+              <point x="694.0" y="298.0" />
+              <point x="-35.25" y="64.5" />
+            </edge>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.timeParametrs" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.kp">
+              <point x="0.0" y="-124.5" />
+              <point x="821.75" y="308.0" />
+              <point x="741.0" y="308.0" />
+              <point x="11.75" y="64.5" />
+            </edge>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.Alarm" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.kp">
+              <point x="-46.25" y="-64.5" />
+              <point x="1177.0" y="288.0" />
+              <point x="788.0" y="288.0" />
+              <point x="58.75" y="64.5" />
+            </edge>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.kp" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.locate">
+              <point x="0.0" y="-64.5" />
+              <point x="0.0" y="44.5" />
+            </edge>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.Alarm" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.AlarmTag">
+              <point x="46.25" y="-64.5" />
+              <point x="0.0" y="34.5" />
+            </edge>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.Correktor" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.kp">
+              <point x="60.75" y="-114.5" />
+              <point x="270.0" y="288.0" />
+              <point x="670.5" y="288.0" />
+              <point x="-58.75" y="64.5" />
+            </edge>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.Correktor" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.nameCorrektor">
+              <point x="-60.75" y="-114.5" />
+              <point x="0.0" y="34.5" />
+            </edge>
+            <edge source="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.DayArchive" target="5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.kp">
+              <point x="0.0" y="-194.5" />
+              <point x="636.75" y="308.0" />
+              <point x="717.5" y="308.0" />
+              <point x="-11.75" y="64.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8099137931034482" x="286.0" y="613.0" />
+          <SelectedNodes>
+            <node>5738ae7c-95ed-4ca4-9695-3ab2c21780b1.table:Telemetria.locate</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="59" selection-start="187" selection-end="187" vertical-scroll-proportion="-5.625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/services/WebServicesBaza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="40" selection-start="1683" selection-end="1683" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baza/client/ConnectToBD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="49" selection-start="9085" selection-end="9085" vertical-scroll-proportion="2.275862">
+          <folding>
+            <marker date="1360584732000" expanded="true" signature="886:942" placeholder="INSERT INTO ..." />
+            <marker date="1360584732000" expanded="true" signature="944:1000" placeholder="select locat..locate..." />
+            <marker date="1360584732000" expanded="true" signature="1323:1393" placeholder="insert into ..." />
+            <marker date="1360584732000" expanded="true" signature="2113:2179" placeholder="Select timep..timeparametrs..." />
+            <marker date="1360584732000" expanded="true" signature="2853:2919" placeholder="SELECT timep..timeparametrs..." />
+            <marker date="1360584732000" expanded="true" signature="3602:3685" placeholder="select timep..timeparametrs..." />
+            <marker date="1360584732000" expanded="true" signature="4513:4762" placeholder="SELECT curre..currentvalues..." />
+            <marker date="1360584732000" expanded="true" signature="4686:4761" placeholder="SELECT MAX(i..currentvalues..." />
+            <marker date="1360584732000" expanded="true" signature="6011:6206" placeholder="select hourl..hourlyarchive..." />
+            <marker date="1360584732000" expanded="true" signature="7430:7596" placeholder="select DayDa..dayarchive..." />
+            <marker date="1360584732000" expanded="true" signature="8543:8572" placeholder="select locat..location..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="library" />
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>WSD</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15034965" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (WSDispetcher)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15034965" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>dom4jrrrrr</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WSDispetcher</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15034965" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31152633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JAX-WS-Glassfish / JAX-WS 2.X RI / Metro 1.X / JWSDP 2.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15034965" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43103448" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
